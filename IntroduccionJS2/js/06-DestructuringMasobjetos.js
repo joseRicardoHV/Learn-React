@@ -21,4 +21,4 @@ const { nombre: nombrecliente /* renombra variable */, direccion: { calle } /* s
 console.log(nombre)
 console.log("Este cliente", nombrecliente, "vive en la calle:", calle)
 
-
+console.log("hello git Senior")
